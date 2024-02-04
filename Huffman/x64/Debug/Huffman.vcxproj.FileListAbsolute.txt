@@ -1,0 +1,2 @@
+E:\MSA\z.Junk\VS Programs\Huffman\x64\Debug\Huffman.exe
+E:\MSA\2nd Year\Semester One\CS-213\Project\Huffman\x64\Debug\Huffman.exe
